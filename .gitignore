@@ -1,8 +1,10 @@
 # specific files for this project
-/train.csv
-/test.csv
-/data_processed.csv
-/ROC.png
+\data
+*.csv
+train.csv
+test.csv
+data_processed.csv
+*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
