@@ -1,0 +1,9 @@
+
+MLOps Tutorial#2. Track ML Model Metrics across branches with Github Actions and Docker
+https://www.youtube.com/watch?v=wFaGeHcm2zQ
+@DataScienceGarage
+1 anno fa
+ @minute_machine_learning5362  - so:
+-> data_processed.py - https://drive.google.com/file/d/1k_XlDKnedmbfX8hq-2XkUz__pY7mtqmS/view?usp=sharing
+-> test.csv - https://drive.google.com/file/d/1peJn4OCxBqlXgGFrRHneBuJ7IIWLIqaq/view?usp=sharing
+-> train.csv - https://drive.google.com/file/d/1_lR9J9bzi27mFd4YtG9v-uyYQrsLTQjn/view?usp=sharing
